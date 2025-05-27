@@ -35,11 +35,11 @@ Currently preparing for MSc studies in Aerospace Engineering at **WUT**, special
 ## 🧰 Tech Stack
 - 🌬 **CFD:** ANSYS Fluent  
 - 🔥 **Thermal Analysis:** ANSYS Steady/Transient Heat Transfer  
-- 🛠 **Structural:** ANSYS Mechanical (FEA)  
+- 🛠 **Structural:** ANSYS Mechanical (FEA), ANSYS APDL
 - 🧩 **CAD & Design:** AutoCAD, CATIA, SolidWorks  
 - 🔄 **Simulation Tools:** FluidSIM  
 - 📊 **Post-processing:** Excel  
-
+- 💻 **Programming:** MATLAB, C++
 ---
 
 ## 📫 Let’s Connect!
