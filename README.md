@@ -2,7 +2,7 @@
 
 🚀 Aerospace Engineering enthusiast | Future MSc Student at Warsaw University of Technology (WUT)  
 🧪 Passionate about Computational Fluid Dynamics (CFD), simulations & design optimization.  
-💻 Tools: ANSYS Fluent · OpenFOAM · MATLAB · Python · SolidWorks · FEA  
+💻 Tools: ANSYS Fluent · OpenFOAM · MATLAB · C++ · SolidWorks · FEA  
 
 ---
 
