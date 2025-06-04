@@ -27,8 +27,7 @@
 ---
 
 ## 🎯 Career Goals
-To contribute to advanced aerospace simulations, high-speed aerodynamics, and fluid-structure interaction research.  
-, specializing in CFD and high-speed flow analysis.
+To contribute to advanced aerospace simulations, high-speed aerodynamics, and fluid-structure interaction research. Specializing in CFD and high-speed flow analysis.
 
 ---
 
