@@ -28,7 +28,7 @@
 
 ## 🎯 Career Goals
 To contribute to advanced aerospace simulations, high-speed aerodynamics, and fluid-structure interaction research.  
-Currently preparing for MSc studies in Aerospace Engineering at **WUT**, specializing in CFD and high-speed flow analysis.
+, specializing in CFD and high-speed flow analysis.
 
 ---
 
