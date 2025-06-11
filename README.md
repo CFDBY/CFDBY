@@ -1,6 +1,6 @@
 # 👋 Hello, I’m Burak Yorukcu (CFDBY)
 
-🚀 Aerospace Engineering enthusiast | 
+🚀 CFD enthusiast | 
 🧪 Passionate about Computational Fluid Dynamics (CFD), simulations & design optimization.  
 💻 Tools: ANSYS Fluent · OpenFOAM · MATLAB · C++ · SolidWorks · FEA  
 
