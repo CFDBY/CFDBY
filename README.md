@@ -20,7 +20,7 @@
 **Objective:** Compare cooling performance of air (2 m/s) and water (1 m/s) flows over a heated panel using CFD.
 **Highlights:** Turbulent water flow simulation (Re ≈ 56,000) in 0.05 m pipe under ∼800 W heat flux, temperature distribution, heat transfer efficiency analysis with ANSYS Fluent.
 
-###🔥 Wall Heating CFD Simulation with ANSYS Fluent
+### 🔥 Wall Heating CFD Simulation with ANSYS Fluent
 **Objective:** Analyze steady-state heat transfer from a heated wall to 2D air domain.
 **Highlights:** Wall heat flux behavior, total heat transfer rate, simulating 330 K heated wall affecting 300 K incoming air, supporting renewable energy system optimization.
 
