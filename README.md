@@ -1,45 +1,110 @@
-# 👋 Hello, I’m Burak Yorukcu (CFDBY)
+# 💫 CFD & Space Engineering Projects by Burak Yörükçü  
 
-🚀 CFD enthusiast | 
-🧪 Passionate about Computational Fluid Dynamics (CFD), simulations & design optimization.  
-💻 Tools: ANSYS Fluent · OpenFOAM · MATLAB · C++ · SolidWorks · FEA  
-
----
-
-## 🔬 Key Projects
-
-### 🔄 Vortex Shedding & Aero-Forces on Bluff Bodies  
-**Objective:** Simulate transient wake patterns and analyze aerodynamic force fluctuations using FFT.  
-**Highlights:** 2D URANS, force monitors (Cl/Cd), vortex visualization, spectral analysis.
-
-### 💥 Supersonic Bullet Flow Simulation  
-**Objective:** Investigate shock structures and drag behavior at different Mach numbers.  
-**Highlights:** Mach contour visualization, shock wave formation, drag coefficient tracking, high-speed FFT.
-
-### ❄️ CFD-Based Cooling Comparison (Air vs. Water)
-**Objective:** Compare cooling performance of air (2 m/s) and water (1 m/s) flows over a heated panel using CFD.
-**Highlights:** Turbulent water flow simulation (Re ≈ 56,000) in 0.05 m pipe under ∼800 W heat flux, temperature distribution, heat transfer efficiency analysis with ANSYS Fluent.
-
-### 🔥 Wall Heating CFD Simulation with ANSYS Fluent
-**Objective:** Analyze steady-state heat transfer from a heated wall to 2D air domain.
-**Highlights:** Wall heat flux behavior, total heat transfer rate, simulating 330 K heated wall affecting 300 K incoming air, supporting renewable energy system optimization.
-
+👨‍🚀 **Name:** Burak Yörükçü  
+🎓 **MSc Student in Space Engineering @ University of Miskolc**  
+📧 **Contact:** burakyorukcu@outlook.com  
+🌍 **Focus:** Computational Fluid Dynamics (CFD), Thermal Systems, Space Materials, and Spacecraft Environment Simulation  
 
 ---
 
-## 🎯 Career Goals
-To contribute to advanced aerospace simulations, high-speed aerodynamics, and fluid-structure interaction research, while optimizing renewable energy sources through computational fluid dynamics, specializing in high-speed flow analysis and enhancing efficiency in wind and solar energy systems.
+## 🚀 About Me  
+
+I am a Space Engineering MSc student at the University of Miskolc with a background in Mechanical Engineering.  
+My primary focus areas include **fluid flow, heat transfer, and solidification phenomena** under extreme or space-like conditions.  
+I aim to combine **CFD analysis** with **space materials research** to simulate and optimize thermal and propulsion systems for space applications.  
+
+I enjoy working with tools such as:  
+- 🧩 **ANSYS Fluent / CFX** for CFD and thermal simulations  
+- ⚙️ **SolidWorks** for geometry and design  
+- 📊 **MATLAB / Python** for data analysis and automation  
+
 ---
 
-## 🧰 Tech Stack
-- 🌬 **CFD:** ANSYS Fluent  
-- 🔥 **Thermal Analysis:** ANSYS Steady/Transient Heat Transfer  
-- 🛠 **Structural:** ANSYS Mechanical (FEA), ANSYS APDL
-- 🧩 **CAD & Design:** AutoCAD, CATIA, SolidWorks  
-- 🔄 **Simulation Tools:** FluidSIM  
-- 📊 **Post-processing:** Excel  
-- 💻 **Programming:** MATLAB, C++
+## 🌀 Fluid Flow & Aerodynamics  
+
+- [**Axisymmetric Bézier Nozzle CFD Study**](https://github.com/CFDBY/Axisymmetric-CFD-Analysis-of-a-Bezier-Shaped-Nozzle)  
+  _Bézier-shaped nozzle vs. De Laval — smoother shocks, lower wall forces, enhanced flow stability._
+
+- [**De Laval Nozzle Analysis**](https://github.com/CFDBY/Laval-Nozzle-Analysis)  
+  _2D compressible flow analysis through a De Laval nozzle to observe choked flow and Mach distributions._
+
+- [**NACA 2412 Airfoil Stall Study**](https://github.com/CFDBY/NACA-2412-Airfoil-Stall-Analysis-CFD-and-MATLAB)  
+  _Lift/drag analysis with SST k-ω model; stall prediction and MATLAB visualization._
+
 ---
 
-## 📫 Let’s Connect!
-- 📧 burakyorukcu@outlook.com
+## 🔥 Heat Transfer & Thermal Systems  
+
+- [**Comparative Cooling: Wind vs Water Flow**](https://github.com/CFDBY/Comparative-Cooling-Analysis-Wind-2-m-s-vs.-Water-Flow-1-m-s-)  
+  _Performance comparison of air and water cooling for solar panel surfaces._
+
+- [**PV Panel Cooling with Air Flow**](https://github.com/CFDBY/PV-Panel-Cooling-with-Air-Flow)  
+  _CFD study of photovoltaic panel temperature reduction using forced air convection._
+
+- [**2D Solar Chimney Simulation**](https://github.com/CFDBY/2D-Solar-Chimney-Analysis)  
+  _Natural convection flow and heat transfer study in a solar chimney structure._
+
+---
+
+## 🌀 Aerodynamics & Supersonic Flow  
+
+- [**Supersonic Bullet Flow Analysis**](https://github.com/CFDBY/Supersonic-Flow-Analysis-of-a-Bullet)  
+  _Supersonic flow modeling, drag coefficient validation between CFD and analytical results._
+
+- [**Building Vortex Shedding Analysis**](https://github.com/CFDBY/Building_Vortex_Shedding_Analysis)  
+  _Vortex shedding frequency and aerodynamic response of high-rise structures._
+
+---
+
+## 🧊 Solidification & Mechanical Systems  
+_(In progress — upcoming CFD solidification studies)_  
+
+- [**Structural Analysis of Roller Coaster Rails**](https://github.com/CFDBY/Structural_Analysis_of_Roller_Coaster_Rails)  
+  _Finite Element Analysis using ANSYS and SolidWorks for optimal structural performance._
+
+- [**Pneumatic Tube Automation System**](https://github.com/CFDBY/pneumatic-tube-automation)  
+  _Automation concept for medical sample transport using pneumatic systems._
+
+---
+
+## 🪐 Space Materials & Applications  
+_(In progress — planned research on space-grade materials & coatings)_  
+
+- **Material Behavior under Thermal Cycling**  
+  _Investigation of fatigue and microcrack formation due to orbital temperature variations._
+
+- **Surface Interaction Analysis in Vacuum Conditions**  
+  _Outgassing and emissivity effects on spacecraft surface materials._
+
+---
+
+## 🧰 Tools & Skills  
+
+| Domain | Tools / Methods |
+|--------|----------------|
+| CFD | ANSYS Fluent, CFX, OpenFOAM (beginner) |
+| CAD | SolidWorks, AutoCAD |
+| Programming | MATLAB, Python |
+| Data | ParaView, Tecplot |
+| Research | Space Materials, Thermal Control, Flow Physics |
+
+---
+
+## 📈 Goals  
+
+- Achieve realistic **multi-physics coupling** between fluid flow and heat transfer  
+- Develop **CFD-based predictive models** for space environment simulations  
+- Collaborate on **research publications** related to propulsion or space thermal management  
+
+---
+
+## 🌐 Connect  
+
+If you’d like to discuss CFD projects, space materials, or potential research collaboration:  
+📧 **burakyorukcu@outlook.com**  
+
+---
+
+
+
+
