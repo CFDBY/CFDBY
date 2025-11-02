@@ -97,6 +97,7 @@ _(In progress — planned research on space-grade materials & coatings)_
 - Collaborate on **research publications** related to propulsion or space thermal management  
 
 ---
+
 ## 🗺️ Technical Growth Roadmap
 
 ### 🟢 **Current Focus (Q1 2026)**
@@ -109,6 +110,8 @@ _(In progress — planned research on space-grade materials & coatings)_
 
 ### 🚀 **Long-Term Vision**
 - Predictive models for space material behavior under extreme conditions
+
+---
 
 ## 🌐 Connect  
 
