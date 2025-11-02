@@ -59,11 +59,15 @@ I enjoy working with tools such as:
 ## 🧊 Solidification & Mechanical Systems  
 _(In progress — upcoming CFD solidification studies)_  
 
+- [**Solidification of Water in a Square Cavity (2D Transient CFD Analysis)**](https://github.com/CFDBY/Solidification-of-Water-in-a-Square-Cavity-2D-Transient-CFD-Analysis-)  
+  _Transient laminar CFD simulation of water freezing using ANSYS Fluent — includes temperature and liquid fraction evolution, mesh visualization, and animation of phase change._
+
 - [**Structural Analysis of Roller Coaster Rails**](https://github.com/CFDBY/Structural_Analysis_of_Roller_Coaster_Rails)  
   _Finite Element Analysis using ANSYS and SolidWorks for optimal structural performance._
 
 - [**Pneumatic Tube Automation System**](https://github.com/CFDBY/pneumatic-tube-automation)  
   _Automation concept for medical sample transport using pneumatic systems._
+
 
 ---
 
