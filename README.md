@@ -31,6 +31,10 @@ I enjoy working with tools such as:
 - [**NACA 2412 Airfoil Stall Study**](https://github.com/CFDBY/NACA-2412-Airfoil-Stall-Analysis-CFD-and-MATLAB)  
   _Lift/drag analysis with SST k-ω model; stall prediction and MATLAB visualization._
 
+- [**Two-Phase Air–Water Flow (VOF Transient CFD Simulation)**](https://github.com/CFDBY/Two-Phase-Air-Water-Transient-CFD-Simulation)  
+  _2D transient simulation of air–water interaction using the Volume of Fluid (VOF) multiphase model in ANSYS Fluent.  
+  Includes geometry, mesh, interface contours, and animation of air–water phase evolution under 450 Pa pressure inlet conditions._
+
 ---
 
 ## 🔥 Heat Transfer & Thermal Systems  
