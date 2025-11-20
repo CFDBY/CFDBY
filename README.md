@@ -1,8 +1,7 @@
 # 💫 CFD & Space Engineering Projects by Burak Yörükçü  
 
 👨‍🚀 **Name:** Burak Yörükçü  
-🎓 **MSc Student in Space Engineering @ University of Miskolc**  
-📧 **Contact:** burakyorukcu@outlook.com  
+🎓 **MSc Student in Space Engineering @ University of Miskolc** 📧 **Contact:** burakyorukcu@outlook.com  
 🌍 **Focus:** Computational Fluid Dynamics (CFD), Thermal Systems, Space Materials, and Spacecraft Environment Simulation  
 
 ---
@@ -20,6 +19,14 @@ I enjoy working with tools such as:
 
 ---
 
+## 🧲 Magnetohydrodynamics (MHD) & Multiphysics  
+
+- [**MHD-Driven Flow in Continuous Casting (CFD Validation)**](https://github.com/CFDBY/MHD-Continuous-Casting-CFD-Validation)  
+  _Replication and validation of the electromagnetic stirring (EMS) experiment from Zhang et al. (2022)._  
+  _Implemented a custom C-based UDF for Lorentz force with frequency correction and soft-start ramping. Achieved <4.2% error margin against experimental benchmark data._
+
+---
+
 ## 🌀 Fluid Flow & Aerodynamics  
 
 - [**Axisymmetric Bézier Nozzle CFD Study**](https://github.com/CFDBY/Axisymmetric-CFD-Analysis-of-a-Bezier-Shaped-Nozzle)  
@@ -32,8 +39,8 @@ I enjoy working with tools such as:
   _Lift/drag analysis with SST k-ω model; stall prediction and MATLAB visualization._
 
 - [**Two-Phase Air–Water Flow (VOF Transient CFD Simulation)**](https://github.com/CFDBY/Two-Phase-Air-Water-Transient-CFD-Simulation)  
-  _2D transient simulation of air–water interaction using the Volume of Fluid (VOF) multiphase model in ANSYS Fluent.  
-  Includes geometry, mesh, interface contours, and animation of air–water phase evolution under 450 Pa pressure inlet conditions._
+  _2D transient simulation of air–water interaction using the Volume of Fluid (VOF) multiphase model in ANSYS Fluent._  
+  _Includes geometry, mesh, interface contours, and animation of air–water phase evolution under 450 Pa pressure inlet conditions._
 
 ---
 
@@ -78,11 +85,9 @@ _(In progress — upcoming CFD solidification studies)_
 ## 🪐 Space Materials & Applications  
 _(In progress — planned research on space-grade materials & coatings)_  
 
-- **Material Behavior under Thermal Cycling**  
-  _Investigation of fatigue and microcrack formation due to orbital temperature variations._
+- **Material Behavior under Thermal Cycling** _Investigation of fatigue and microcrack formation due to orbital temperature variations._
 
-- **Surface Interaction Analysis in Vacuum Conditions**  
-  _Outgassing and emissivity effects on spacecraft surface materials._
+- **Surface Interaction Analysis in Vacuum Conditions** _Outgassing and emissivity effects on spacecraft surface materials._
 
 ---
 
@@ -92,7 +97,7 @@ _(In progress — planned research on space-grade materials & coatings)_
 |--------|----------------|
 | CFD | ANSYS Fluent, CFX, OpenFOAM (beginner) |
 | CAD | SolidWorks, AutoCAD |
-| Programming | MATLAB, Python |
+| Programming | MATLAB, Python, C (UDF) |
 | Data | ParaView, Tecplot |
 | Research | Space Materials, Thermal Control, Flow Physics |
 
@@ -109,11 +114,10 @@ _(In progress — planned research on space-grade materials & coatings)_
 ## 🗺️ Technical Growth Roadmap
 
 ### 🟢 **Current Focus (Q1 2026)**
-- [ ] Mastering C for ANSYS UDF development
+- [x] Mastering C for ANSYS UDF development (Applied in MHD Project)
 - [ ] Building first custom phase-change models
 
-### 🟡 **Next Horizon (Q2 2026)**  
-- [ ] COMSOL for multiphysics dendrite growth
+### 🟡 **Next Horizon (Q2 2026)** - [ ] COMSOL for multiphysics dendrite growth
 - [ ] Python automation for batch simulations
 
 ### 🚀 **Long-Term Vision**
@@ -124,9 +128,9 @@ _(In progress — planned research on space-grade materials & coatings)_
 ## 🌐 Connect  
 
 If you’d like to discuss CFD projects, space materials, or potential research collaboration:  
-📧 **burakyorukcu@outlook.com**  
+📧 **burakyorukcu@outlook.com** ```
 
----
+
 
 
 
