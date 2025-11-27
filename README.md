@@ -25,6 +25,10 @@ I enjoy working with tools such as:
   _Replication and validation of the electromagnetic stirring (EMS) experiment from Zhang et al. (2022)._  
   _Implemented a custom C-based UDF for Lorentz force with frequency correction and soft-start ramping. Achieved <4.2% error margin against experimental benchmark data._
 
+- [**MHD-Driven Solidification & Macro-Segregation (Multi-Scale)**](https://github.com/CFDBY/MHD-Solidification-MacroSegregation-CFD)
+  _Numerical simulation of directional solidification and macro-segregation in Ga-In alloy under Rotating Magnetic Fields (RMF)._
+  _Coupled solidification, species transport, and MHD flow using Solutal Buoyancy and Scheil Rule. Extracted critical dendritic growth parameters (G, V, R) at the solidification front for micro-scale Phase-Field (MiCRESS) integration._
+
 ---
 
 ## 🌀 Fluid Flow & Aerodynamics  
