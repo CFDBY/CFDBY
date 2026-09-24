@@ -45,8 +45,8 @@ driven by electromagnetic fields.
 |---|---|
 | [Bézier-Shaped Axisymmetric Nozzle](https://github.com/CFDBY/Axisymmetric-CFD-Analysis-of-a-Bezier-Shaped-Nozzle) | Bézier contour vs. De Laval nozzle: smoother shock structure and lower wall loads |
 | [De Laval Nozzle Analysis](https://github.com/CFDBY/Laval-Nozzle-Analysis) | 2D compressible flow, choking and Mach number distribution |
-| [Supersonic Flow over a Bullet](https://github.com/CFDBY/Supersonic-Flow-Analysis-of-a-Bullet) | Shock modelling and drag coefficient validated against analytical results |
-| [NACA 2412 Stall Analysis](https://github.com/CFDBY/NACA-2412-Airfoil-Stall-Analysis-CFD-and-MATLAB) | Lift/drag polars with SST k-ω, stall prediction, MATLAB post-processing |
+| [Supersonic Flow over a Bullet](https://github.com/CFDBY/Supersonic-Flow-Analysis-of-a-Bullet) | Shock structure at Mach 1.5 and 2, mesh study, drag compared with an empirical correlation |
+| [NACA 2412 Stall Analysis](https://github.com/CFDBY/NACA-2412-Airfoil-Stall-Analysis-CFD-and-MATLAB) | Lift/drag vs. angle of attack with SST k-ω, compared with thin-airfoil theory |
 | [Building Vortex Shedding](https://github.com/CFDBY/Building_Vortex_Shedding_Analysis) | Shedding frequency and aerodynamic response of a high-rise structure |
 
 </details>
